@@ -12,3 +12,11 @@
 */local__files/docs/
 */local__files/
 
+
+# FILES
+###############################
+*.html
+*.psd
+*.doc
+*.sublime-project
+*.sublime-workspace
