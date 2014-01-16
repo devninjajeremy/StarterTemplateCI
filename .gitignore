@@ -1,5 +1,14 @@
-*/config/development
-*/logs/log-*.php
-*/logs/!index.html
-*/cache/*
-*/cache/!index.html
+# DIRECTORIES
+###############################
+*/source/app/config/development
+*/source/app/logs/log-*.php
+*/source/app/logs/!index.html
+*/source/app/cache/*
+*/source/app/cache/!index.html
+*/local__files/
+*/local__files/psd/
+*/local__files/sublime/
+*/local__files/notes/
+*/local__files/docs/
+*/local__files/
+
